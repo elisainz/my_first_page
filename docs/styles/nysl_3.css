@@ -441,15 +441,13 @@ input.samerow {width: auto;}
   background: linear-gradient(indigo, purple);
   box-shadow: inset 2 2 10px darkblue; 
   width: 18px;
-  height: 2px;
-  
+  height: 2px; 
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
   background: orange; 
   border-radius: 10px;
-
 }
 
 /* Handle on hover */
